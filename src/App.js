@@ -23,7 +23,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://fanatics.com"
+          href="https://www.fanatics.com/nfl/nike-jerseys-nike-game/o-3538+br-0717+d-31888956-974542+z-9-2853908761?pageSize=72&sortOption=HighestPrice"
           target="_blank"
           rel="noopener noreferrer"
         >
